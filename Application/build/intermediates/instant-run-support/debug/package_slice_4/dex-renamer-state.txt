@@ -1,0 +1,4 @@
+#Fri Dec 15 23:40:01 EST 2017
+base.0=D\:\\Training\\Coding\\git\\googlesamples\\android-MediaBrowserService\\android-MediaBrowserService-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
